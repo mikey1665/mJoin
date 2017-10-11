@@ -1,0 +1,2 @@
+join-message: '%player% has joined the server!'
+leave-message: '%player% has left the server!'

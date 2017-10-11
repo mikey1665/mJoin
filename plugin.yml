@@ -1,0 +1,6 @@
+name: mJoin
+main: me.mike.Main
+version: 1.0
+commands:
+     mjoin:
+          description: Allows the user to customize join/leave messages.
